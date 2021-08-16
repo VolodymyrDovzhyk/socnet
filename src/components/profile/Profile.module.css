@@ -1,0 +1,7 @@
+.user_profile {
+    min-height: 300px;
+}
+.avatar {
+    max-height: 110px;
+    max-width: 110px;
+}   

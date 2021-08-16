@@ -1,0 +1,21 @@
+.itemPost {
+    color:black;
+    padding-bottom: 30px;
+
+}
+.title {
+    font-size: 14px;
+}
+
+.author {
+    font-size: 10px;
+}
+.date {
+    font-size: 10px;
+}
+.params {
+    font-size: 10px;
+}
+.postsText {
+    font-size: 10px;
+}
